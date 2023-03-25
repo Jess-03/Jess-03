@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, I'm Jess!
 
-<!--
-**Jess-03/Jess-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm a web developer 💻 and biologist 🧬🍃🧫
+* I'm currently working to become a front end developer.
 
-Here are some ideas to get you started:
+## Interests
+* Desing
+* UX/UI
+* Photography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's collaborate
+I'd love to work on projects related to:
+* Enviroment
+* Climate change
+* Health
+* Science communication
+* Tecnology
+
+## Tech stack & tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="height:60px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="height:60px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:60px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height:60px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:60px"/>&nbsp;
+          
+
+## Latest project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardSeCh&repo=EC_DecoNatura&bg_color=DEG,212529,59625c&border_color=212529&text_color=e8e7e3&title_color=e8e7e3&icon_color=95ac9d)](https://github.com/eduardSeCh/EC_DecoNatura)          
+          
