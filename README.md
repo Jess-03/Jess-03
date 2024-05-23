@@ -1,7 +1,7 @@
 # Hi, I'm Jess!
 
 * I'm a web developer 💻 🎨
-* * I'm currently working to become a front end developer.
+* I'm currently working to become a front end developer.
 
 ## Interests
 * Desing
@@ -23,6 +23,9 @@ I'd love to work on projects related to:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:60px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height:60px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:60px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" style="height:60px"/>
+          
+
           
 
 ## Latest project
