@@ -1,12 +1,11 @@
 # Hi, I'm Jess!
 
-* I'm a web developer 💻 and biologist 🧬🍃🧫
-* I'm currently working to become a front end developer.
+* I'm a web developer 💻 🎨
+* * I'm currently working to become a front end developer.
 
 ## Interests
 * Desing
 * UX/UI
-* Photography
 
 ## Let's collaborate
 I'd love to work on projects related to:
@@ -15,6 +14,7 @@ I'd love to work on projects related to:
 * Health
 * Science communication
 * Tecnology
+* Ecommerce
 
 ## Tech stack & tools
 
